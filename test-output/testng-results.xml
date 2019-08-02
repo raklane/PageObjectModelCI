@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Data Driven Basics" duration-ms="1283" started-at="2019-07-31T03:45:39Z" finished-at="2019-07-31T03:45:40Z">
+    <groups>
+    </groups>
+    <test name="Login test" duration-ms="1283" started-at="2019-07-31T03:45:39Z" finished-at="2019-07-31T03:45:40Z">
+      <class name="com.rakesh.testcases.LoginTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.rakesh.testcases.LoginTest@fcb4004]" name="loginTest" duration-ms="1042" started-at="2019-07-30T22:45:39Z" finished-at="2019-07-30T22:45:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.rakesh.testcases.LoginTest@fcb4004]" name="tearDown" is-config="true" duration-ms="826" started-at="2019-07-30T22:45:40Z" finished-at="2019-07-30T22:45:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.rakesh.testcases.LoginTest -->
+    </test> <!-- Login test -->
+  </suite> <!-- Data Driven Basics -->
+</testng-results>

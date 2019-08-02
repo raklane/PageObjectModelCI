@@ -1,0 +1,7 @@
+30/07/2019 23:50:42 devpinoyLogger Properties file loaded.
+30/07/2019 23:50:42 devpinoyLogger OR file loaded.
+30/07/2019 23:50:47 devpinoyLogger chrome launched with URL: https://www.zoho.com/
+30/07/2019 23:50:49 devpinoyLogger Clicking on element: loginLink_CSS
+30/07/2019 23:50:49 devpinoyLogger Typing on element: username_CSS, Entered value: rakesh.xyzz@gmail.com
+30/07/2019 23:50:49 devpinoyLogger Typing on element: password_CSS, Entered value: selenium@123
+30/07/2019 23:50:49 devpinoyLogger Clicking on element: loginButton_CSS
