@@ -11,6 +11,7 @@ public class LoginTest extends BaseTest {
 	@Test
 	public void loginTest() {
 		
+		//Login test
 		HomePage homePage = new HomePage();
 		LoginPage loginPage = homePage.goToLogin();
 		
